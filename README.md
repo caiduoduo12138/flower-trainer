@@ -11,7 +11,7 @@ apt-get update
 apt-get install -y nginx
 cp nginx/* /etc/nginx/conf.d/
 sed -i 's/^user\s\+[^;]\+;/user root;/' /etc/nginx/nginx.conf
-pip3 install --no-cache-dir torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cu129
+pip3 install --no-cache-dir torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cu128
 pip3 install -r requirements.txt && pip3 install -r requirements_extra.txt
 ```
 
