@@ -1,0 +1,1 @@
+import{R as s,am as o}from"./vue.4dfaac09.js";var e=s([]);const a=o("flow",{state:()=>({step1:{logo:"",name:"",flowId:"",groupId:void 0,adminList:e,remark:""},step2:[],step3:{}}),actions:{setStep2(t){this.step2=t},clearStep1(){this.step1={logo:"",name:"",flowId:"",groupId:void 0,adminList:e,remark:""}},clearStep2(){this.step2=[]},setStep3(t){this.step3=t}}});export{a as u};

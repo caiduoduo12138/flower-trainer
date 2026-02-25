@@ -1,0 +1,1 @@
+import{s as t}from"./index.0f5ebb0a.js";function r(e){return t({url:"/gen/create-table/page",method:"get",params:e})}function a(e){return t({url:"/gen/create-table",method:"post",data:e})}function n(e){return t({url:"/gen/create-table/"+e,method:"get"})}function o(e){return t({url:"/gen/create-table",method:"delete",data:e})}export{a,o as d,r as f,n as g};

@@ -1,0 +1,1 @@
+import{s as e}from"./index.0f5ebb0a.js";function a(t){return e({url:"/admin/audit/page",method:"get",params:t})}function d(t){return e({url:"/admin/audit/delete",method:"delete",data:t})}export{d,a as f};

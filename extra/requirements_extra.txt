@@ -1,0 +1,7 @@
+fastapi==0.116.1
+uvicorn[standard]
+httpx==0.28.1
+chardet==5.2.0
+python-multipart==0.0.20
+aiofiles==24.1.0
+file_read_backwards==3.2.0

@@ -1,0 +1,1 @@
+import{s as m}from"./index.0f5ebb0a.js";const e=a=>m({url:"/admin/log/page",method:"get",params:a}),d=a=>m({url:"/admin/log",method:"delete",data:a}),o=a=>m({url:"/admin/log/sum",method:"get",params:a});export{d,o as g,e as p};

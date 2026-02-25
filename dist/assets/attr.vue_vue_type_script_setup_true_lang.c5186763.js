@@ -1,0 +1,1 @@
+import{l as t,m as e,q as a}from"./vue.4dfaac09.js";const s=t({__name:"attr",props:{content:{type:Object,default:()=>({})},styles:{type:Object,default:()=>({})}},setup:p=>(o,r)=>(e(),a("div"))});export{s as _};

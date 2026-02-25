@@ -1,0 +1,1 @@
+function n(o,d){return o.map(e=>{const t=function(r,i){const c=(i==null?void 0:i[r.field])||"E";return c==="R"?{...r,props:{...r.props||{},disabled:!0}}:c==="H"?{...r,hidden:!0}:r}(e,d);return Array.isArray(e.children)?{...t,children:n(e.children,d)}:t})}export{n as p};
